@@ -2,6 +2,7 @@ package cn.tll;
 
 public class one {
 	public static void main(String[] args) {
-		System.out.println("ÄãÊÇ×î°ôµÄ");
+		System.out.println("ä½ æ˜¯æœ€æ£’çš„");
+		System.out.println("ä¿®æ”¹ç¼–ç æ ¼å¼");
 	}
 }
